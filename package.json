@@ -1,0 +1,16 @@
+{
+  "name": "js-to-java",
+  "version": "1.0.0",
+  "main": "converter.js",
+  "dependencies": {
+    "js-to-java": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node converter.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
